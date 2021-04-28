@@ -1,2 +1,2 @@
 # To-Do-Pad
-A simple To-Do List app where you can write
+A simple To-Do Pad application where you can write your tasks.
